@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.849 sec <<< FAILURE! - in runner.TestRunner
+feature(runner.TestRunner)  Time elapsed: 0.216 sec  <<< FAILURE!
+cucumber.runtime.CucumberException: java.lang.NullPointerException
+Caused by: java.lang.NullPointerException
+
